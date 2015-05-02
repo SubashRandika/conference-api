@@ -1,1 +1,5 @@
+## Directory-based project format:
 .idea/
+
+## Dependency directory
+node_modules
